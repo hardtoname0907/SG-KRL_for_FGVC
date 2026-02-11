@@ -24,3 +24,8 @@ All training parameters can be modified in `config.py`.
 The code supports single-machine multi-GPU parallel training.
 ```bash
 python train.py
+```
+
+## Acknowledgement
+This work is built upon the [MMAL](https://github.com/ZF4444/MMAL-Net).
+
